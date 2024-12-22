@@ -1,4 +1,4 @@
 print('Hello, world!')
-def buggy_function(): return 1/0
+def not_buggy_function(): return 0
 print('Another feature')
 print('Final feature')
